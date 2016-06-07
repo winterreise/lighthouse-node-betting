@@ -1,0 +1,14 @@
+{
+  "name": "w7d1_node_betting",
+  "version": "0.0.1",
+  "description": "Betting on Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "author": "Pui Wing Tam",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "4.1.4"
+  }
+}
